@@ -15,13 +15,15 @@ Operating systems : MacOS
     .
     ├── README.md
     ├── out
-    │   └── DueDateCalculator.class
+    │   └── DueDateCalculator.class
     ├── softwares_info.txt
     ├── src
-    │   └── DueDateCalculator.java
+    │   └── DueDateCalculator.java
     └── terminal_session_record
+        ├── script-2022-09-21-Github_submission.log
         ├── script-2022-09-21-JAVA_TEST.log
         └── script-2022-09-21.log
+        
 ```
 
 - all terminal session record files is in terminal_session_record folder
