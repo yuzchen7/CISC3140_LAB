@@ -1,0 +1,70 @@
+Script started on Wed Sep 21 15:13:36 2022
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hggit  g  l ggit sa tatus[?2004l
+On branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mout/[m
+	[31mscript-2022-09-21-Github_submission.log[m
+	[31msoftwares_info.txt[m
+	[31msrc/[m
+	[31mterminal_session_record/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hggit  Ou  add O out s
+[Jscript-2022-09-21-Github_submission.log  src/
+softwares_info.txt                       [A[A[0m[27m[24m[46Cgit add out s[Krc[1m/[0m[0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hggit commit -m ""i"n"i"t":" "j"a"v"a" "S"o"u"r"c"e" "f"" a"n"d" "e"" E"x"c"u"t"a"b"l"e" [K[A[92C "f"fi"l"e"[?2004l
+[main 629612a] init: java Source and Excutable file
+ 2 files changed, 40 insertions(+)
+ create mode 100644 out/DueDateCalculator.class
+ create mode 100644 src/DueDateCalculator.java
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hggit stati us[?2004l
+On branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mscript-2022-09-21-Github_submission.log[m
+	[31msoftwares_info.txt[m
+	[31mterminal_session_record/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hggti i g git add softwares_info.txt[1m [0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hggit commit -m ""i"n"i"t" "" :" "T"a"s"k"1" "a"s"n"w"e"r"s"[1C[?2004l
+[main 3889e3b] init: Task1 asnwers
+ 1 file changed, 36 insertions(+)
+ create mode 100644 softwares_info.txt
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hggi s g git status[?2004l
+On branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mscript-2022-09-21-Github_submission.log[m
+	[31mterminal_session_record/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004ht aadd  a  ggit A add T terminal_session_record[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hggit commit - m ""i"n"i"t" "" :" "a"l"l" "l"o"g"" " " t"e"r"m"i"n"a"l" "l"o"g" "f"i"l"e"[1C[?2004l
+[main 3b57d1e] init: all terminal log file
+ 2 files changed, 182 insertions(+)
+ create mode 100644 terminal_session_record/script-2022-09-21-JAVA_TEST.log
+ create mode 100644 terminal_session_record/script-2022-09-21.log
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hggit push[?2004l
+Enumerating objects: 17, done.
+Counting objects:   5% (1/17)Counting objects:  11% (2/17)Counting objects:  17% (3/17)Counting objects:  23% (4/17)Counting objects:  29% (5/17)Counting objects:  35% (6/17)Counting objects:  41% (7/17)Counting objects:  47% (8/17)Counting objects:  52% (9/17)Counting objects:  58% (10/17)Counting objects:  64% (11/17)Counting objects:  70% (12/17)Counting objects:  76% (13/17)Counting objects:  82% (14/17)Counting objects:  88% (15/17)Counting objects:  94% (16/17)Counting objects: 100% (17/17)Counting objects: 100% (17/17), done.
+Delta compression using up to 12 threads
+Compressing objects:   6% (1/16)Compressing objects:  12% (2/16)Compressing objects:  18% (3/16)Compressing objects:  25% (4/16)Compressing objects:  31% (5/16)Compressing objects:  37% (6/16)Compressing objects:  43% (7/16)Compressing objects:  50% (8/16)Compressing objects:  56% (9/16)Compressing objects:  62% (10/16)Compressing objects:  68% (11/16)Compressing objects:  75% (12/16)Compressing objects:  81% (13/16)Compressing objects:  87% (14/16)Compressing objects:  93% (15/16)Compressing objects: 100% (16/16)Compressing objects: 100% (16/16), done.
+Writing objects:   5% (1/17)Writing objects:  11% (2/17)Writing objects:  17% (3/17)Writing objects:  23% (4/17)Writing objects:  29% (5/17)Writing objects:  35% (6/17)Writing objects:  41% (7/17)Writing objects:  47% (8/17)Writing objects:  52% (9/17)Writing objects:  58% (10/17)Writing objects:  64% (11/17)Writing objects:  70% (12/17)Writing objects:  76% (13/17)Writing objects:  82% (14/17)Writing objects:  88% (15/17)Writing objects:  94% (16/17)Writing objects: 100% (17/17)Writing objects: 100% (17/17), 8.76 KiB | 2.92 MiB/s, done.
+Total 17 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), done.[K
+To github.com:yuzchen7/CISC3140_lab1.git
+ * [new branch]      main -> main
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004heeci e exit[?2004l
+
+Script done on Wed Sep 21 15:16:56 2022
