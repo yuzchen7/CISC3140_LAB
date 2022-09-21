@@ -1,0 +1,36 @@
+Task #1
+
+1. Termainal(MacOS) :
+	version : 2.12.7 (455)
+
+2. Git version control
+	version : 2.23.1 (Apple Git-133)
+
+3. NodeJS
+	version : v18.8.0
+   NPM
+	version : 8.18.0
+
+4. Repository configurations: $HOME/Github/CISC3140_Lab/.git/config
+	[core]
+		repositoryformatversion = 0
+		filemode = true
+		bare = false
+		logallrefupdates = true
+		ignorecase = true
+		precomposeunicode = true
+	[remote "origin"]
+		url = git@github.com:yuzchen7/CISC3140_lab1.git
+		fetch = +refs/heads/*:refs/remotes/origin/*
+	[branch "main"]
+		remote = origin
+		merge = refs/heads/main
+
+5. Text editor
+	vscode and vim
+
+6. Text editor configuration(s)
+	vim 
+		config file : ~/.vimrc
+	vscode
+		config file : $HOME/Library/Application\ Support/Code/User/settings.json
