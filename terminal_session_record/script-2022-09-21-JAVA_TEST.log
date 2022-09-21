@@ -1,0 +1,74 @@
+Script started on Wed Sep 21 14:56:35 2022
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hlls l  lls -a l[?2004l
+total 24
+-rw-r--r--  1 yuz.chen  staff  1520 Sep 21 14:35 README.md
+drwxr-xr-x  2 yuz.chen  staff    64 Sep 21 14:57 out
+-rw-r--r--  1 yuz.chen  staff   249 Sep 21 14:57 script-2022-09-21-JAVA_TEST.log
+-rw-r--r--  1 yuz.chen  staff   735 Sep 21 14:36 softwares_info.txt
+drwxr-xr-x  3 yuz.chen  staff    96 Sep 21 14:12 src
+drwxr-xr-x  3 yuz.chen  staff    96 Sep 21 14:11 terminal_session_record
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hlls s
+[Jscript-2022-09-21-JAVA_TEST.log  src/
+softwares_info.txt               [A[A[0m[27m[24m[46Cls s[Krc [?2004l
+[JDueDateCalculator.java
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hlls out[?2004l
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hjjavac script-2022-09-21-JAVA_TEST.log[1m [0m[0m                               rc/DueDateCalculator.java[1m [0m[0m o -d out[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hlls -a l out[?2004l
+total 8
+-rw-r--r--  1 yuz.chen  staff  1895 Sep 21 14:57 DueDateCalculator.class
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hccd out[?2004l
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004h[7mecho "Test case 1 : the day already past the due day"[27m[53D[27me[27mc[27mh[27mo[27m [27m"[27mT[27me[27ms[27mt[27m [27mc[27ma[27ms[27me[27m [27m1[27m [27m:[27m [27mt[27mh[27me[27m [27md[27ma[27my[27m [27ma[27ml[27mr[27me[27ma[27md[27my[27m [27mp[27ma[27ms[27mt[27m [27mt[27mh[27me[27m [27md[27mu[27me[27m [27md[27ma[27my[27m"[?2004l
+Test case 1 : the day already past the due day
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004hjjava DueDateCalculator.class[1m [0m[29Decho "Test case 1 : the day [0malready past the due day"[53Djava DueDateCalculator.class                         [25D       r[?2004l
+Enter the due date with format 'mm/dd/yyyy' : 12/6/2001
+Result -> The due date is passed.
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004hjava DueDateCalculator[?2004l
+Enter the due date with format 'mm/dd/yyyy' : 9/8/2022
+Result -> The due date is passed.
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004h[7mecho "Test case 2 : today's day"[27m[32D[27me[27mc[27mh[27mo[27m [27m"[27mT[27me[27ms[27mt[27m [27mc[27ma[27ms[27me[27m [27m2[27m [27m:[27m [27mt[27mo[27md[27ma[27my[27m'[27ms[27m [27md[27ma[27my[27m"[?2004l
+Test case 2 : today's day
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004hecho "Test case 2 : today's day"[32Djava DueDateCalculator          [10D[?2004l
+Enter the due date with format 'mm/dd/yyyy' : 9/21/2022
+Result -> Today is the due Date, please submit the work.
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004hjava DueDateCalculator[22D                      [22Djava DueDateCalculator[22Decho "Test case 2 : today's day"[P[15C [16D2 : today's day"[15D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1Cy" y" y" y" y" [1C" " " " " " t"h"e" "a"y" "" " " s"a"y" "" " " " d"a"y" "i"n" "[7mF[7muture[27m"[27mF[27mu[27mt[27mu[27mr[27meuture" future"[1C[1C[1C[1C[1C[1C[P[21C [22D3 : the day in future"[21D[?2004l
+Test case 3 : the day in future
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004hecho "Test case 3 : the day in future"[38Djava DueDateCalculator                [16D[?2004l
+Enter the due date with format 'mm/dd/yyyy' : 89/   9/22/2022
+Result -> 1 days alway form today
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004hjava DueDateCalculator[?2004l
+Enter the due date with format 'mm/dd/yyyy' : 9 9/23/2098
+Result -> 27761 days alway form today
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004hjava DueDateCalculator[22Decho "Test case 3 : the day in future"[P[21C [22D3 : the day in future"[21D[P[21C [22D4 : the day in future"[21D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1Ce" [1C" " " " " " " " " " " " " " " " [7mi[7mnvalid[27m"[27mi[27mn[27mv[27ma[27ml[27mi[27md[1C "i"n"p"u"t" "d"a"y"[1C[?2004l
+Test case 4 : invalid input day
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004hecho "Test case 4 : invalid input day"[38Djava DueDateCalculator                [16D[?2004l
+Enter the due date with format 'mm/dd/yyyy' : 9232022
+Result -> The enter date is invalid
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004hjava DueDateCalculator[?2004l
+Enter the due date with format 'mm/dd/yyyy' : 09242088
+Result -> The enter date is invalid
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004hjava DueDateCalculator[?2004l
+Enter the due date with format 'mm/dd/yyyy' : kjd131
+Result -> The enter date is invalid
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004heexit  e  lls[?2004l
+DueDateCalculator.class
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro out % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hlls -a l[?2004l
+total 32
+-rw-r--r--  1 yuz.chen  staff  1520 Sep 21 14:35 README.md
+drwxr-xr-x  3 yuz.chen  staff    96 Sep 21 14:57 out
+-rw-r--r--  1 yuz.chen  staff  7747 Sep 21 15:02 script-2022-09-21-JAVA_TEST.log
+-rw-r--r--  1 yuz.chen  staff   735 Sep 21 14:36 softwares_info.txt
+drwxr-xr-x  3 yuz.chen  staff    96 Sep 21 14:12 src
+drwxr-xr-x  3 yuz.chen  staff    96 Sep 21 14:11 terminal_session_record
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hmmv s
+[Jscript-2022-09-21-JAVA_TEST.log  src/
+softwares_info.txt               [A[A[0m[27m[24m[46Cmv s[Kcript-2022-09-21-JAVA_TEST.log[1m [0m[0m terminal_session_record[1m/[0m[K[K[?2004l
+[J[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hlls terminal_session_record[1m/[0m[0m [?2004l
+script-2022-09-21-JAVA_TEST.log	script-2022-09-21.log
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004hls terminal_session_record-terminal_session_record[23Dlterminal_session_record[23D terminal_session_record[23D[?2004l
+total 80
+-rw-r--r--  1 yuz.chen  staff   9208 Sep 21 15:03 script-2022-09-21-JAVA_TEST.log
+-rw-r--r--  1 yuz.chen  staff  25993 Sep 21 14:12 script-2022-09-21.log
+[1m[7m%[27m[1m[0m                                                                                             [0m[27m[24m[Jyuz.chen@yuzchendeMacBook-Pro CISC3140_Lab1 % [K[?2004heexit[?2004l
+
+Script done on Wed Sep 21 15:03:20 2022
