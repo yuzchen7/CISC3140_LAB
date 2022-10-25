@@ -19,7 +19,7 @@ public class DaysCalc {
     static SimpleDateFormat simpleDateFormat1;
     static SimpleDateFormat simpleDateFormat2;
     
-    /**
+    /**  
      * Static Block
      * it will run when jvm is loading the class, 
      * which is before any other method(including main method) 
