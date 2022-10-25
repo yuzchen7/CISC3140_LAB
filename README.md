@@ -63,11 +63,41 @@ Operating systems : MacOS
 ## <text id='reflection'>Reflection on Lab 2</id>
 - ### Bash vs JAVA
     ``` text
-        The similarity between bash scripts and Java source code is that the logic used is similar, and the difference between the two is very big in the basic syntax, the way variables are called, "()" is replaced by "[]", with line breaks or ";" to separate statements, and etc. The difference is that java is an object-oriented language, and uses a lot of objects and object member methods in the runtime. However, bash scripting is more of a functional development, implemented by multiple complex/simple instructions, and does not exist in objects. bash scripting functions return status codes with values from 0 to 255, while java functions can return any data type.
+        The similarity between bash scripts and Java source 
+        code is that the logic used is similar, and the 
+        difference between the two is very big in the basic 
+        syntax, the way variables are called, "()" is 
+        replaced by "[]", with line breaks or ";" to 
+        separate statements, and etc. The difference is 
+        that java is an object-oriented language, and uses 
+        a lot of objects and object member methods in the 
+        runtime. However, bash scripting is more of a 
+        functional development, implemented by multiple 
+        complex/simple instructions, and does not exist in 
+        objects. bash scripting functions return status 
+        codes with values from 0 to 255, while java 
+        functions can return any data type.
     ```
 - ### Bash vs Makefile
     ``` text
-        The biggest difference between bash script and makefile is that 1) the syntax format is different in the way variables are called, assignment operators are different from bash's format, the way functions are called, and etc. The structure of the if else statement is roughly the same, but makefile's if else statement can't be used for 2) The structure of makefile has a target, which is similar to bash's function, and makes [target_name] when executing a target, which is very much like a function call, and makefile also allows the existence of functions. 3) The makefile is the same as bash The makefile can run the bash command with line breaks, indentation, ";" separating the statement and indicating which target the statement is written to. Personally, I think it is easier to use bash because it is more intuitive than makefile to process the input code
+        The biggest difference between bash script and 
+        makefile is that 1) the syntax format is different 
+        in the way variables are called, assignment 
+        operators are different from bash's format, the way 
+        functions are called, and etc. The structure of the 
+        if else statement is roughly the same, but 
+        makefile's if else statement can't be used for 2) 
+        The structure of makefile has a target, which is 
+        similar to bash's function, and makes [target_name] 
+        when executing a target, which is very much like a 
+        function call, and makefile also allows the 
+        existence of functions. 3) The makefile is the same 
+        as bash The makefile can run the bash command with 
+        line breaks, indentation, ";" separating the 
+        statement and indicating which target the statement 
+        is written to. Personally, I think it is easier to 
+        use bash because it is more intuitive than makefile 
+        to process the input code.
     ```
 
 <br>
