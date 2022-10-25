@@ -60,9 +60,9 @@ execut "${root_dir}" "${target_dir}"
 successful_code=$?
 echo "+-------------------------------------------------------------------+"
 if [[ successfully -eq 0 ]]; then
-    echo "| The compile function for java has been executed successfully      |"
+    echo "| The execut function for java has been executed successfully       |"
 else
-    echo "| The compile function for java has been executed faied             |"
+    echo "| The execut function for java has been executed faied              |"
 fi
 echo "+-------------------------------------------------------------------+"
 
