@@ -71,7 +71,7 @@ echo
 
 echo "Begin running DaysCalc in bash version...."
 echo
-source DueDateCalculator.sh
+source DaysCalc.sh
 echo
 echo "End running DaysCalc in bash version...."
 echo "+-------------------------------------------------------------------+"
