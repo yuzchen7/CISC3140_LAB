@@ -33,7 +33,7 @@ lab2_run: lab2_complie
 
 
 #sample input:
-# source  file: src/DueDateCalculator.java
+# source  file: src/DaysCalc.java
 # target   dir: src
-# run   source: DueDateCalculator
+# run   source: DaysCalc
 # input source: ../sampledates.txt
