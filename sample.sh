@@ -42,7 +42,7 @@ run "${root_dir}" "${target_dir}"
 successful_code=$?
 echo "+-------------------------------------------------------------------+"
 if [[ successfully -eq 0 ]]; then
-    echo "| The run function for java has been compiled successfully          |"
+    echo "| The run function for java has been run successfully               |"
 else 
     echo "| The run function for java has been run failed                     |"
 fi
@@ -54,7 +54,7 @@ echo
 
 
 echo "+-------------------------------------------------------------------+"
-echo "| execut function for java start running:                           |"
+echo "| The execut function for java start running:                       |"
 echo "+-------------------------------------------------------------------+"
 execut "${root_dir}" "${target_dir}"
 successful_code=$?
@@ -62,7 +62,7 @@ echo "+-------------------------------------------------------------------+"
 if [[ successfully -eq 0 ]]; then
     echo "| The execut function for java has been executed successfully       |"
 else
-    echo "| The execut function for java has been executed faied              |"
+    echo "| The execut function for java has been executed failed             |"
 fi
 echo "+-------------------------------------------------------------------+"
 
