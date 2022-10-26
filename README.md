@@ -1,5 +1,5 @@
-# CISC3140_lab1
-lab_1 for CISC3140
+# CISC3140_lab
+lab for CISC3140
 
 Author : Yuzhuang Chen
 
