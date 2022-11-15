@@ -46,7 +46,6 @@ function run() {
 
     # read in all the '.class' file from ${root_dir} and convert into an array
     list_files=($(find "${2}" -name '*.class'))
-    echo "${list_files[@]}"
     
     #change directory to target dir for avoid java ClassLoadingException/ClassNotFoundException
     cd "${2}"
@@ -58,8 +57,6 @@ function run() {
         # modified .class file to java command executable path
         file_name=${list_files[$i]%\.class} # remove longest match from the back of string
         file_name=${file_name#*/} # remove longest match from the start of string
-
-        pwd
         # to avoid print out the error message from java command
         java ${file_name} < ../sampledates.txt # 2> /dev/null
         # 2 stand for stderr, means if the command failed, using stderr stream
